@@ -4,7 +4,7 @@ def main():
 
 def pouet():
     print('coin')
-    return ()
+    return (2)
 
 
 if __name__ == '__main__':

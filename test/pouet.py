@@ -1,6 +1,6 @@
 import unittest
 
-from app.main import pouet
+from main import pouet
 
 
 class MyTestCase(unittest.TestCase):
